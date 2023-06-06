@@ -165,7 +165,7 @@ def mostrar_about():
         
 # Crear la ventana principal
 window = tk.Tk()
-window.title("Subneteo-PeterHack")
+window.title("PeterH4ck-Subnetting")
 window.geometry("400x500")
 
 # Menú superior
@@ -247,7 +247,7 @@ resultados_text = tk.Text(window)
 resultados_text.pack(fill="both", expand=True)
 
 # Etiqueta de derechos de autor
-derechos_label = tk.Label(frame_derechos, text="© PeterHack 2023 ©", font=("Arial", 14, "bold"))
+derechos_label = tk.Label(frame_derechos, text="© PeterH4ck 2023 ©", font=("Arial", 14, "bold"))
 derechos_label.pack(pady=10)
 
 # Ejecutar el bucle principal de la interfaz gráfica
